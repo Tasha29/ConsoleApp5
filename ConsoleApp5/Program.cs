@@ -36,7 +36,7 @@ namespace lab4
 
 				}
 
-				if (sum==j)
+			 	if (sum==j)
 					Console.WriteLine(j);
 			}
 				
